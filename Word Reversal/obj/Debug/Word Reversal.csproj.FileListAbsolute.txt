@@ -1,0 +1,6 @@
+C:\Users\Windos\Documents\SharpDevelop Projects\Word Reversal\Word Reversal\obj\Debug\Word Reversal.csprojResolveAssemblyReference.cache
+C:\Users\Windos\Documents\SharpDevelop Projects\Word Reversal\Word Reversal\bin\Debug\Word Reversal.exe.config
+C:\Users\Windos\Documents\SharpDevelop Projects\Word Reversal\Word Reversal\bin\Debug\Word Reversal.exe
+C:\Users\Windos\Documents\SharpDevelop Projects\Word Reversal\Word Reversal\bin\Debug\Word Reversal.pdb
+C:\Users\Windos\Documents\SharpDevelop Projects\Word Reversal\Word Reversal\obj\Debug\Word Reversal.exe
+C:\Users\Windos\Documents\SharpDevelop Projects\Word Reversal\Word Reversal\obj\Debug\Word Reversal.pdb
